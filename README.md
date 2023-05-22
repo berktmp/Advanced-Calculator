@@ -1,1 +1,3 @@
 # Advanced-Calculator
+
+This repository contains the code for an advanced calculator written in Java. The calculator supports various mathematical operations such as addition, subtraction, multiplication, division, exponentiation, factorial, modulus, and rectangle area/perimeter calculations. The calculator provides a menu-based interface for the user to choose the desired operation and input the necessary values. The code is modularized with separate methods for each operation, making it easy to understand and maintain. It utilizes the Scanner class to read user input from the console. This calculator provides a convenient tool for performing basic and advanced mathematical calculations.
